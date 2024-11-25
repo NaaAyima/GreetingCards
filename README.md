@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 I created a React application called "Greeting Cards" using Vite and Tailwind CSS. Built reusable components like Header, GreetingCard, and App. Learned to set up projects with Vite, style components with Tailwind CSS, and use props to dynamically display content, focusing on clean and modular design.
 
 ## output
-![Screenshot of Greeting Cards Application](./assets/screenshot.png)
+![Screenshot of Greeting Cards Application](./src/assets/screenshot.png)
